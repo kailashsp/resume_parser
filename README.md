@@ -91,6 +91,11 @@ resume_parser/
 └── requirements.txt
 ```
 
+## TODO
+1. Optimisation of prompt
+2. Create a evaluation dataset
+3. Possible integration of other LLM providers
+
 ## Contributing
 
 Contributions to the Resume Parser API are welcome! Please follow these steps:
@@ -108,3 +113,4 @@ Contributions to the Resume Parser API are welcome! Please follow these steps:
 ## Contact
 
 For any queries or support, please open an issue in the GitHub repository.
+
